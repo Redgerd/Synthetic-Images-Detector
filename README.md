@@ -24,6 +24,6 @@ The dataset and all studies using it are linked using [Papers with Code](https:/
 To set up the project, clone this repository and install the required packages.
 
 ```bash
-git clone <repository-url>
-cd <project-directory>
+git clone https://github.com/Redgerd/Synthetic-Images-Detector
+cd Synthetic-Images-Detector
 pip install -r requirements.txt
