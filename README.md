@@ -52,4 +52,5 @@ print("Real" if prediction == 0 else "AI-generated")
 ## **Links and References**
 - **Papers with Code**: [CIFAKE on Papers with Code](https://paperswithcode.com/dataset/cifake-real-and-ai-generated-synthetic-images)
 - **Original Paper**: Bird, J.J. and Lotfi, A., 2024. *CIFAKE: Image Classification and Explainable Identification of AI-Generated Synthetic Images*. IEEE Access.
+- **Cycle GAN**: Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks.
 
